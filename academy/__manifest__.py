@@ -10,7 +10,9 @@
     'category': 'Custome Modules',
     'depends': ['base'],
     'data': [],
-    'demo': [],
+    'demo': [
+        'demo/course_demo.xml',
+    ],
     'installable': True,
     'auto_install': False,
     'application': True,
