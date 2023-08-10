@@ -1,6 +1,6 @@
 {
     'name': 'Odoo Academy',
-    'version': '0.0.0.0.1',
+    'version': '0.0.0.0.2',
     'summary': 'Import Products from CSV/Excel File, Import Products, Import Product and update Product, Odoo All Import Data',
     'description': """
         training for odoo custom modules
